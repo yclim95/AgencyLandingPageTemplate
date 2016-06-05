@@ -7,6 +7,7 @@ Deployed [**Here**](http://yc-agencylandtemplate.bitballoon.com/)
 1. HTML 
 2. CSS
 3. LESS (CSS Pre-Processor)
+4. JQuery
 
 ## Framework used:
 1. Bootstrap
@@ -26,9 +27,6 @@ Deployed [**Here**](http://yc-agencylandtemplate.bitballoon.com/)
 5. Jumbotron Showcase
 6. Button Classes & Icons 
 7. Responsive Media Queries
-
-## Pages 
-1. Home
 
 ## Preview 
 **Web View**

@@ -1,7 +1,7 @@
 # Agency Landing Web Page Template
 
 ## Live Preview 
-Deployed [**Here**](https://www.bitballoon.com/sites/yc-agencylandtemplate)
+Deployed [**Here**](http://yc-agencylandtemplate.bitballoon.com/)
 
 ## Programming/Markup Languages used:
 1. HTML 
